@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleTextEditor", "SimpleTextEditor\SimpleTextEditor.csproj", "{AE9B666B-8728-455D-934F-17E6872F2C2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLParser", "XMLParser\XMLParser.csproj", "{9317CD5F-C822-4EEB-993D-D4B2836D620B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSONParser", "JSONParser\JSONParser.csproj", "{CE4EF3C2-2710-4788-8337-2C50116DA5D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySQLConnect", "MySQLConnect\MySQLConnect.csproj", "{8E22F914-32A9-478B-B219-CB6E6DC9ECB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE9B666B-8728-455D-934F-17E6872F2C2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE9B666B-8728-455D-934F-17E6872F2C2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE9B666B-8728-455D-934F-17E6872F2C2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE9B666B-8728-455D-934F-17E6872F2C2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9317CD5F-C822-4EEB-993D-D4B2836D620B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9317CD5F-C822-4EEB-993D-D4B2836D620B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9317CD5F-C822-4EEB-993D-D4B2836D620B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9317CD5F-C822-4EEB-993D-D4B2836D620B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE4EF3C2-2710-4788-8337-2C50116DA5D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE4EF3C2-2710-4788-8337-2C50116DA5D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE4EF3C2-2710-4788-8337-2C50116DA5D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE4EF3C2-2710-4788-8337-2C50116DA5D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E22F914-32A9-478B-B219-CB6E6DC9ECB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E22F914-32A9-478B-B219-CB6E6DC9ECB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E22F914-32A9-478B-B219-CB6E6DC9ECB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E22F914-32A9-478B-B219-CB6E6DC9ECB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8277B44-FBC1-4B9C-8092-0BD52EE02B2F}
+	EndGlobalSection
+EndGlobal
